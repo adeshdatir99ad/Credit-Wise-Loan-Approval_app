@@ -24,7 +24,7 @@ from sklearn.preprocessing import LabelEncoder, OneHotEncoder, StandardScaler
 
 # ------------------------------- settings ----------------------------------
 AUTHOR = "Adesh Datir"
-GITHUB_URL = "https://github.com/adeshdatir99ad"
+GITHUB_URL = "https://github.com/adeshdatir99ad/Credit-Wise-Loan-Approval_app"
 LINKEDIN_URL = "https://www.linkedin.com/in/adeshdatir/"
 FINAL_MODEL = "Naive Bayes"   # the model the notebook settled on
 
